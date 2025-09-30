@@ -1,0 +1,46 @@
+# Carpetas de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+
+# Archivos de dependencias
+*.egg-info/
+*.egg
+.eggs/
+
+# Archivos de compilación / distribución
+build/
+dist/
+*.whl
+
+# Archivos de configuración locales
+*.log
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# IDEs y editores
+.vscode/
+.idea/
+*.iml
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Archivos de pruebas y cobertura
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+
+# Archivos de sistema
+.DS_Store
